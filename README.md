@@ -30,15 +30,15 @@ City-wise distribution revealed driver concentration in a few locations.
 
 Created binary flags for:
     
-    - Negative / Zero Business Value
+Negative / Zero Business Value
     
-    - Increased/decreased Quarterly Rating, Income, and Grade
+Increased/decreased Quarterly Rating, Income, and Grade
 
 Derived features:
 
-   - Ratio of Total Business Value to Income (TBV2Inc)
-    
-   - Year of joining, rank composite
+Ratio of Total Business Value to Income (TBV2Inc)
+
+Year of joining, rank composite
 
 Label encoding for city and standardization of features
 
